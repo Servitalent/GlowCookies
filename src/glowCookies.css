@@ -306,6 +306,6 @@
 /* Servitalent styles */
 /* =========================== */
 #prebannerBtn {
-  display: none;
+  display: none !important;
 }
 
