@@ -303,3 +303,9 @@
   text-decoration: none;
 }
 
+/* Servitalent styles */
+/* =========================== */
+#prebannerBtn {
+  display: none;
+}
+
